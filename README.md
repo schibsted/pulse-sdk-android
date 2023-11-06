@@ -2,7 +2,7 @@ Android Pulse Tracker
 ==============================
 [![Build Status](https://travis.schibsted.io/spt-dataanalytics/event-sdk-android.svg?token=yMrsxKVxxgeGNmkzhMo9&branch=master)](https://travis.schibsted.io/spt-dataanalytics/event-sdk-android)
 
-The most recent production version is `9.0.0`.
+The most recent production version is `9.0.1`.
 
 Please do not use this SDK in production without:
 
